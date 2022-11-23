@@ -6,6 +6,8 @@ import fr.dawan.formation.test.game.model.Méchant;
 import fr.dawan.formation.test.game.model.NiveauMoyen;
 import fr.dawan.formation.test.game.model.Personnage;
 
+// test commit new name
+
 public class Main {
 
     public static void main(String[] args) {
